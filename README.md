@@ -1,4 +1,4 @@
-Need to Add google map Api
+Need to Add google map API
 ## Setup
 
 - Get an API Key at [https://cloud.google.com/maps-platform/](https://cloud.google.com/maps-platform/)
